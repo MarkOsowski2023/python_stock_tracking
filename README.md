@@ -9,7 +9,11 @@ In this project I will be developing an application in Python that allows a user
 - tkinter (GUI)
 - matplotlib
 
+### Console Based Interface
 ![Console Based Interface](./images/console_interface.png)
+### GUI
 ![Graphical User Interface](./images/gui.png)
+# Import Data Example
 ![Importing Historical Data](./images/import.png)
+# Charting Example
 ![Displaying Charts](./images/chart.png)
