@@ -138,7 +138,7 @@ def main():
             print(em)
     print("Goodbye")
 
-# Program Starts Here
+# Program 
 if __name__ == "__main__":
     # run unit testing only if run as a stand-alone script
     main()

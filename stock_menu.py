@@ -271,7 +271,7 @@ def main():
     stock_list = []
     main_menu(stock_list)
 
-# Program Starts Here
+# Program 
 if __name__ == "__main__":
     # execute only if run as a stand-alone script
     main()

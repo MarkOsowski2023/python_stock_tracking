@@ -22,10 +22,7 @@ class DailyData:
         self.close = close
         self.volume = volume
         
-# Unit Test - Do Not Change Code Below This Line *** *** *** *** *** *** *** *** ***
-# main() is used for unit testing only. It will run when stock_class.py is run.
-# Run this to test your class code. Once you have eliminated all errors, you are
-# ready to continue with the next part of the project.
+# Unit Test 
 
 def main():
     error_count = 0
@@ -118,7 +115,7 @@ def main():
             print(em)
     print("Goodbye")
 
-# Program Starts Here
+# Program 
 if __name__ == "__main__":
     # run unit testing only if run as a stand-alone script
     main()
